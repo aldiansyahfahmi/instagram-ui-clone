@@ -1,16 +1,12 @@
 # instagram_ui_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center" style="display:flex; align-items:center">
+    <a href="https://flutter.dev" target="_blank">
+        <img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="400">
+    </a>
+</p>
+<br>
+<br>
+<p>
+    <a target="_blank"><img src="screenshoot/screenshoot.png" width="28.5%" style="max-width: 100%;"></a>
+</p>
