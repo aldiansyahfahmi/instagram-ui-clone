@@ -1,8 +1,8 @@
 # instagram_ui_clone
 
-<p align="center" style="display:flex; align-items:center">
+<p align="center" style="display:flex; align-items:center; ">
     <a href="https://flutter.dev" target="_blank">
-        <img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="400">
+        <img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="400" style="background-color:white; padding: 16px" >
     </a>
 </p>
 <br>
